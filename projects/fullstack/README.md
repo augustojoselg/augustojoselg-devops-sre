@@ -1,95 +1,100 @@
-# 🔄 Projetos Full Stack
+# 🏗️ Projetos de Infraestrutura Completa
 
-Esta seção contém projetos completos que abrangem tanto frontend quanto backend, demonstrando habilidades end-to-end.
+Esta seção contém projetos completos de **infraestrutura**, **automação** e **sistemas críticos**, demonstrando habilidades end-to-end em SRE/DevOps.
 
 ## 🚀 Projetos em Destaque
 
-### 🏥 [Sistema de Gestão Hospitalar](https://github.com/augustojoselg/hospital-management)
-- **Descrição**: Sistema completo para gestão de pacientes, médicos e consultas
-- **Frontend**: React, TypeScript, Material-UI, Redux
-- **Backend**: Node.js, Express, PostgreSQL, JWT
-- **Status**: ✅ Concluído
-- **Demo**: [Ver Demo](https://hospital-management-demo.vercel.app)
+### 🏦 [Desenrola Brasil - Infraestrutura Completa](https://github.com/augustojoselg/desenrola-brasil-complete)
+- **Descrição**: Infraestrutura completa para plataforma financeira nacional
+- **Cloud**: AWS com EKS, Terraform, Jenkins, GitLab CI
+- **Monitoramento**: Grafana, Prometheus, CloudWatch
+- **Status**: ✅ Em produção
+- **Impacto**: 14 instituições financeiras integradas
 
-### 🎓 [Plataforma de E-learning](https://github.com/augustojoselg/elearning-platform)
-- **Descrição**: Plataforma completa para cursos online com videoaulas
-- **Frontend**: Next.js, Tailwind CSS, Zustand
-- **Backend**: Python, FastAPI, MongoDB, Celery
+### 📺 [Infracloud Globo/UOL - Operação Multi-Cloud](https://github.com/augustojoselg/infracloud-globo-complete)
+- **Descrição**: Operação completa multi-cloud para Globo/UOL DCCM
+- **Cloud**: AWS, Azure, OCI, GCP com Kubernetes
+- **Automação**: Jenkins, Docker, TSURU, CloudStack
 - **Status**: ✅ Concluído
-- **Usuários**: 500+ cadastrados
+- **Liderança**: 16 analistas
 
-### 🏪 [Marketplace Online](https://github.com/augustojoselg/online-marketplace)
-- **Descrição**: Plataforma de e-commerce com sistema de pagamentos
-- **Frontend**: Vue.js, Nuxt.js, Vuetify
-- **Backend**: Java, Spring Boot, MySQL, Redis
-- **Status**: 🚧 Em desenvolvimento
-- **Progresso**: 80%
+### 🏢 [Fundep - Infraestrutura Corporativa](https://github.com/augustojoselg/fundep-complete)
+- **Descrição**: Infraestrutura completa corporativa com alta disponibilidade
+- **Sistemas**: PostgreSQL, Linux, Samba/AD, Bacula
+- **Monitoramento**: Zabbix com redução de 30% em incidentes
+- **Status**: ✅ Concluído
+- **Storage**: 100TB+ de dados gerenciados
 
 ## 🛠️ Stack Tecnológica Completa
 
-### Frontend
-- **React/Next.js** - Interfaces modernas e responsivas
-- **Vue.js/Nuxt.js** - Desenvolvimento progressivo
-- **TypeScript** - Tipagem estática e melhor DX
-- **Tailwind CSS** - Estilização utilitária
-- **Material-UI/Vuetify** - Componentes prontos
+### Cloud & Infrastructure
+- **AWS** - Amazon Web Services (EKS, EC2, S3, RDS)
+- **Azure** - Microsoft Cloud Platform
+- **GCP** - Google Cloud Platform
+- **OCI** - Oracle Cloud Infrastructure
+- **Terraform** - Infrastructure as Code
+- **CloudFormation** - AWS IaC
 
-### Backend
-- **Node.js/Express** - JavaScript no servidor
-- **Python/FastAPI** - APIs modernas e rápidas
-- **Java/Spring Boot** - Soluções enterprise
-- **PHP/Laravel** - Desenvolvimento web tradicional
+### Containerização & Orquestração
+- **Docker** - Containerização de aplicações
+- **Kubernetes** - Orquestração de containers
+- **EKS** - Amazon Elastic Kubernetes Service
+- **Helm** - Package Manager
+- **Rancher** - Kubernetes Management
+- **TSURU** - Platform as a Service
 
-### Banco de Dados
-- **PostgreSQL** - Banco relacional robusto
-- **MongoDB** - Banco NoSQL flexível
-- **MySQL** - Banco relacional popular
-- **Redis** - Cache e sessões
+### Automação & CI/CD
+- **Jenkins** - CI/CD Automation
+- **GitLab CI** - Integração Contínua
+- **GitHub Actions** - Automação GitHub
+- **Ansible** - Configuration Management
+- **Terraform** - Infrastructure as Code
 
-### DevOps e Infraestrutura
-- **Docker** - Containerização
-- **Kubernetes** - Orquestração
-- **AWS/Azure** - Cloud computing
-- **Nginx** - Proxy reverso
-- **CI/CD** - Integração contínua
+### Monitoramento & Observabilidade
+- **Prometheus** - Monitoramento e Alertas
+- **Grafana** - Visualização de Métricas
+- **CloudWatch** - Monitoramento AWS
+- **Zabbix** - Monitoramento de Infraestrutura
+- **ELK Stack** - Elasticsearch, Logstash, Kibana
 
 ## 📊 Métricas dos Projetos
 
-- **Total de Projetos**: 3
-- **Projetos Concluídos**: 2
-- **Projetos em Desenvolvimento**: 1
-- **Linhas de Código**: 50k+
-- **Testes Cobertos**: 85%+
+- **Total de Projetos**: 8+
+- **Projetos Concluídos**: 6+
+- **Projetos em Desenvolvimento**: 2+
+- **Anos de Experiência**: 25+
+- **Equipes Lideradas**: Até 16 analistas
+- **Uptime Médio**: 99.9%
 
 ## 🏗️ Arquitetura e Padrões
 
-### Arquitetura
-- **Microserviços** - Serviços independentes
-- **API-First** - Desenvolvimento orientado a APIs
-- **Responsive Design** - Interfaces adaptáveis
-- **Progressive Web App** - Experiência nativa
+### Arquitetura de Infraestrutura
+- **Microserviços** - Serviços independentes e escaláveis
+- **Cloud-Native** - Aplicações nativas para cloud
+- **Multi-Cloud** - Estratégias multi-provedor
+- **High Availability** - Alta disponibilidade e redundância
 
-### Padrões de Desenvolvimento
-- **Clean Architecture** - Separação de responsabilidades
-- **Domain-Driven Design** - Modelagem orientada ao domínio
-- **Test-Driven Development** - Desenvolvimento orientado a testes
-- **Agile/Scrum** - Metodologias ágeis
+### Padrões de SRE/DevOps
+- **Infrastructure as Code** - Terraform, CloudFormation
+- **GitOps** - Deploy automatizado com ArgoCD/Flux
+- **Site Reliability Engineering** - SLI, SLO, Error Budgets
+- **Incident Response** - Post-mortems e melhorias contínuas
 
 ## 🎯 Próximos Projetos
 
-- [ ] Sistema de CRM Completo
-- [ ] Plataforma de Streaming
-- [ ] Aplicação de Delivery
-- [ ] Sistema de Gestão Financeira
+- [ ] Migração completa para Kubernetes avançado
+- [ ] Implementação de GitOps com ArgoCD
+- [ ] Sistema de observabilidade distribuída
+- [ ] Automação de disaster recovery
 
 ## 💡 Dicas para Recrutadores
 
-- Projetos completos e funcionais
-- Código bem estruturado e documentado
-- Implementação de segurança robusta
-- Performance e escalabilidade otimizadas
-- Experiência em diferentes tecnologias
-- Capacidade de trabalhar end-to-end
+- **25+ anos de experiência** em infraestrutura crítica
+- **Projetos nacionais** de alta complexidade (Desenrola Brasil)
+- **Liderança técnica** de equipes de até 16 analistas
+- **Especialista multi-cloud** (AWS, Azure, GCP, OCI)
+- **Redução de 30%** em incidentes críticos
+- **Experiência em ambientes** de alta criticidade
 
 ---
 

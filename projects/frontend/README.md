@@ -1,69 +1,71 @@
-# 🎨 Projetos Frontend
+# 📊 Dashboards e Interfaces de Monitoramento
 
-Esta seção contém projetos focados em desenvolvimento de interfaces de usuário e experiências interativas.
+Esta seção contém projetos focados em **dashboards de monitoramento**, **interfaces de observabilidade** e **ferramentas de visualização** para SRE/DevOps.
 
 ## 🚀 Projetos em Destaque
 
-### 📱 [E-commerce Dashboard](https://github.com/augustojoselg/ecommerce-dashboard)
-- **Descrição**: Dashboard administrativo para gerenciamento de e-commerce
-- **Tecnologias**: React, TypeScript, Material-UI, Chart.js
-- **Status**: ✅ Concluído
-- **Demo**: [Ver Demo](https://ecommerce-dashboard-demo.netlify.app)
+### 📊 [Grafana Dashboards - Desenrola Brasil](https://github.com/augustojoselg/grafana-dashboards-desenrola)
+- **Descrição**: Dashboards customizados para monitoramento da plataforma financeira
+- **Tecnologias**: Grafana, Prometheus, CloudWatch, JSON
+- **Status**: ✅ Em produção
+- **Métricas**: 50+ dashboards, 200+ métricas monitoradas
 
-### 🎨 [Portfolio Pessoal](https://github.com/augustojoselg/portfolio)
-- **Descrição**: Site pessoal com portfólio de projetos
-- **Tecnologias**: Next.js, Tailwind CSS, Framer Motion
-- **Status**: ✅ Concluído
-- **Demo**: [Ver Site](https://augustojoselg.dev)
+### 🎯 [Prometheus Alerting Rules](https://github.com/augustojoselg/prometheus-alerts)
+- **Descrição**: Regras de alerta para monitoramento de infraestrutura crítica
+- **Tecnologias**: Prometheus, AlertManager, YAML
+- **Status**: ✅ Em produção
+- **Cobertura**: 100% dos serviços críticos
 
-### 📊 [Dashboard de Analytics](https://github.com/augustojoselg/analytics-dashboard)
-- **Descrição**: Dashboard para visualização de dados e métricas
-- **Tecnologias**: Vue.js, D3.js, Bootstrap
-- **Status**: 🚧 Em desenvolvimento
-- **Progresso**: 75%
+### 📈 [CloudWatch Dashboards](https://github.com/augustojoselg/cloudwatch-dashboards)
+- **Descrição**: Dashboards AWS CloudWatch para monitoramento multi-cloud
+- **Tecnologias**: CloudWatch, AWS CLI, Terraform
+- **Status**: ✅ Em produção
+- **Ambientes**: AWS, Azure, GCP
 
 ## 🛠️ Tecnologias Utilizadas
 
-### Frameworks e Bibliotecas
-- **React** - Biblioteca para interfaces de usuário
-- **Vue.js** - Framework progressivo para JavaScript
-- **Next.js** - Framework React para produção
-- **Nuxt.js** - Framework Vue.js para produção
+### Monitoramento e Observabilidade
+- **Grafana** - Visualização de métricas e dashboards
+- **Prometheus** - Coleta e armazenamento de métricas
+- **CloudWatch** - Monitoramento AWS nativo
+- **AlertManager** - Gerenciamento de alertas
+- **Jaeger** - Distributed tracing
 
-### Estilização
-- **Tailwind CSS** - Framework CSS utilitário
-- **Material-UI** - Componentes React Material Design
-- **Bootstrap** - Framework CSS responsivo
-- **Styled Components** - CSS-in-JS para React
+### Visualização de Dados
+- **JSON** - Configuração de dashboards
+- **YAML** - Regras de alerta e configurações
+- **Terraform** - Infrastructure as Code para dashboards
+- **AWS CLI** - Automação de configurações
 
 ### Ferramentas de Desenvolvimento
-- **TypeScript** - JavaScript com tipagem estática
-- **ESLint** - Linter para JavaScript/TypeScript
-- **Prettier** - Formatador de código
-- **Webpack** - Bundler de módulos
-- **Vite** - Build tool moderno e rápido
+- **Git** - Controle de versão
+- **Docker** - Containerização de ferramentas
+- **Kubernetes** - Orquestração de serviços de monitoramento
+- **CI/CD** - Deploy automatizado de dashboards
 
 ## 📈 Estatísticas
 
-- **Total de Projetos**: 3
-- **Projetos Concluídos**: 2
-- **Projetos em Desenvolvimento**: 1
-- **Linguagens Mais Utilizadas**: TypeScript, JavaScript, CSS
+- **Total de Projetos**: 5+
+- **Projetos Concluídos**: 4+
+- **Projetos em Desenvolvimento**: 1+
+- **Dashboards Criados**: 50+
+- **Métricas Monitoradas**: 200+
+- **Ambientes Cobertos**: AWS, Azure, GCP
 
 ## 🎯 Próximos Projetos
 
-- [ ] Aplicação de Chat em Tempo Real
-- [ ] Interface para API de Machine Learning
-- [ ] Dashboard de Monitoramento de Servidores
-- [ ] Aplicação de Gerenciamento de Tarefas
+- [ ] Dashboard de SLA/SLO para Desenrola Brasil
+- [ ] Interface de observabilidade distribuída
+- [ ] Dashboard de custos cloud multi-provider
+- [ ] Interface de gerenciamento de incidentes
 
 ## 💡 Dicas para Recrutadores
 
-- Todos os projetos possuem documentação detalhada
-- Código bem estruturado e comentado
-- Demonstração de responsividade e acessibilidade
-- Uso de boas práticas de desenvolvimento
-- Testes automatizados implementados
+- **Especialista em observabilidade** com 25+ anos de experiência
+- **Dashboards em produção** para sistemas críticos
+- **Monitoramento proativo** com redução de 30% em incidentes
+- **Experiência multi-cloud** (AWS, Azure, GCP, OCI)
+- **Liderança técnica** em projetos de alta criticidade
 
 ---
 

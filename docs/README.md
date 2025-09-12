@@ -5,14 +5,22 @@ Esta seção contém documentação adicional sobre minha jornada profissional e
 ## 📄 Conteúdo
 
 ### 📋 Resume
-- Currículo em formato PDF
+- **Curriculo_Augusto_SRE_Senior.pdf** - Currículo completo em PDF
 - Versão online do currículo
 - Diferentes versões para diferentes tipos de posições
 
 ### 🏆 Certificates
-- Certificações técnicas
-- Cursos concluídos
-- Badges e credenciais
+- **AWS Certified Cloud Practitioner** (2023-2026)
+- **Terraform Specialist** - Udemy (2024)
+- **Kubernetes Specialist** - Formação DevOps Pro (2025)
+- **CI/CD & GitOps** - Jenkins, GitHub Actions, ArgoCD (2025)
+- **DevOps no Azure** - AKS & SQL Azure (2025)
+- **DevOps Ninja** - Docker, Kubernetes e Rancher (Udemy, 2023)
+- **Prometheus** - Métricas e Monitoramento (2025)
+- **Grafana Loki** - Logs (2025)
+- **Jaeger** - Distributed Tracing (2025)
+- **OpenTelemetry** - Observabilidade (2025)
+- **Boas Práticas de Cibersegurança** - IBSEC (2024-2027)
 
 ### 📝 Articles
 - Artigos técnicos escritos

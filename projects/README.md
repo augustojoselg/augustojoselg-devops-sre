@@ -76,6 +76,27 @@ Contribuições para projetos open source e colaborações.
 - **Experiência em ambientes críticos** e alta disponibilidade
 - **Fluente em Espanhol** e **Inglês Intermediário**
 
+## 🏆 Certificações Comprovadas
+
+### Certificações AWS
+- **AWS Certified Cloud Practitioner** (2023-2026)
+
+### Certificações DevOps
+- **Terraform Specialist** - Udemy (2024)
+- **Kubernetes Specialist** - Formação DevOps Pro (2025)
+- **CI/CD & GitOps** - Jenkins, GitHub Actions, ArgoCD (2025)
+- **DevOps no Azure** - AKS & SQL Azure (2025)
+- **DevOps Ninja** - Docker, Kubernetes e Rancher (Udemy, 2023)
+
+### Certificações de Observabilidade
+- **Prometheus** - Métricas e Monitoramento (2025)
+- **Grafana Loki** - Logs (2025)
+- **Jaeger** - Distributed Tracing (2025)
+- **OpenTelemetry** - Observabilidade (2025)
+
+### Certificações de Segurança
+- **Boas Práticas de Cibersegurança** - IBSEC (2024-2027)
+
 ---
 
 *Última atualização: $(date)*
