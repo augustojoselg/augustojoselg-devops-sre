@@ -98,4 +98,4 @@ Esta seção contém projetos completos de **infraestrutura**, **automação** e
 
 ---
 
-*Última atualização: $(date)*
+*Última atualização: 12/09/2025*

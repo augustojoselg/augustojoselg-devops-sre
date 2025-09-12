@@ -92,4 +92,4 @@ Esta seção contém projetos relacionados a **aplicações móveis**, **infraes
 
 ---
 
-*Última atualização: $(date)*
+*Última atualização: 12/09/2025*

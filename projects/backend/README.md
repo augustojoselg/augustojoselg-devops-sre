@@ -94,4 +94,4 @@ Esta seção contém projetos focados em infraestrutura, automação e sistemas 
 
 ---
 
-*Última atualização: $(date)*
+*Última atualização: 12/09/2025*

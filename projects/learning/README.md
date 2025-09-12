@@ -111,4 +111,4 @@ Esta seção contém projetos de **aprendizado**, **experimentação** e **desen
 
 ---
 
-*Última atualização: $(date)*
+*Última atualização: 12/09/2025*

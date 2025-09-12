@@ -99,4 +99,4 @@ Contribuições para projetos open source e colaborações.
 
 ---
 
-*Última atualização: $(date)*
+*Última atualização: 12/09/2025*

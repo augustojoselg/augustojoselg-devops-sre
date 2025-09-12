@@ -230,4 +230,4 @@ Quando não estou trabalhando com infraestrutura, gosto de:
 
 ---
 
-*Última atualização: $(date)*
+*Última atualização: 12/09/2025*
