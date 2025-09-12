@@ -1,8 +1,8 @@
 # Configuração do GitHub Pages
-title: Augusto José - Desenvolvedor Full Stack
-description: Portfólio profissional e projetos de desenvolvimento
-author: Augusto José
-email: seuemail@exemplo.com
+title: Augusto José Lázaro Gonçalves - SRE Senior
+description: Site Reliability Engineer Senior com 25+ anos de experiência em TI
+author: Augusto José Lázaro Gonçalves
+email: augustojoselg@gmail.com
 
 # Configurações do site
 baseurl: ""
@@ -22,8 +22,8 @@ plugins:
 # Configurações de SEO
 seo:
   type: Person
-  name: Augusto José
-  description: Desenvolvedor Full Stack apaixonado por tecnologia
+  name: Augusto José Lázaro Gonçalves
+  description: Site Reliability Engineer Senior com 25+ anos de experiência em TI
   url: https://augustojoselg.github.io
   image: /assets/images/profile.jpg
 
@@ -41,9 +41,9 @@ navigation:
 # Configurações de social
 social:
   github: augustojoselg
-  linkedin: seuperfil
-  twitter: seusuario
-  email: seuemail@exemplo.com
+  linkedin: augustojoselg
+  twitter: augustojoselg
+  email: augustojoselg@gmail.com
 
 # Configurações de exibição
 show_excerpts: true

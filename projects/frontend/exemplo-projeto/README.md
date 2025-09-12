@@ -272,10 +272,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Augusto José**
+**Augusto José Lázaro Gonçalves**
 - GitHub: [@augustojoselg](https://github.com/augustojoselg)
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
-- Email: seuemail@exemplo.com
+- LinkedIn: [linkedin.com/in/augustojoselg](https://linkedin.com/in/augustojoselg)
+- Email: augustojoselg@gmail.com
 
 ## 🙏 Agradecimentos
 
