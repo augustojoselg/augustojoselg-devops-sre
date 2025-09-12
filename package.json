@@ -1,0 +1,46 @@
+{
+  "name": "augustojoselg-github-profile",
+  "version": "1.0.0",
+  "description": "Perfil profissional do GitHub - Augusto José",
+  "main": "index.js",
+  "scripts": {
+    "dev": "jekyll serve --livereload",
+    "build": "jekyll build",
+    "serve": "jekyll serve",
+    "clean": "jekyll clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/augustojoselg/augustojoselg.git"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "portfolio",
+    "developer",
+    "fullstack",
+    "javascript",
+    "python",
+    "react",
+    "nodejs"
+  ],
+  "author": "Augusto José",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/augustojoselg/augustojoselg/issues"
+  },
+  "homepage": "https://augustojoselg.github.io",
+  "devDependencies": {
+    "jekyll": "^0.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

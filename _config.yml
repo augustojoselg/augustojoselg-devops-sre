@@ -1,0 +1,80 @@
+# Configuração do GitHub Pages
+title: Augusto José - Desenvolvedor Full Stack
+description: Portfólio profissional e projetos de desenvolvimento
+author: Augusto José
+email: seuemail@exemplo.com
+
+# Configurações do site
+baseurl: ""
+url: "https://augustojoselg.github.io"
+
+# Configurações de build
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configurações de SEO
+seo:
+  type: Person
+  name: Augusto José
+  description: Desenvolvedor Full Stack apaixonado por tecnologia
+  url: https://augustojoselg.github.io
+  image: /assets/images/profile.jpg
+
+# Configurações de navegação
+navigation:
+  - title: Início
+    url: /
+  - title: Projetos
+    url: /projects/
+  - title: Sobre
+    url: /about/
+  - title: Contato
+    url: /contact/
+
+# Configurações de social
+social:
+  github: augustojoselg
+  linkedin: seuperfil
+  twitter: seusuario
+  email: seuemail@exemplo.com
+
+# Configurações de exibição
+show_excerpts: true
+excerpt_separator: "<!--more-->"
+
+# Configurações de data
+timezone: America/Sao_Paulo
+date_format: "%d/%m/%Y"
+
+# Configurações de paginação
+paginate: 5
+paginate_path: "/page:num/"
+
+# Configurações de coleções
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name/
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+
+# Configurações de defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
