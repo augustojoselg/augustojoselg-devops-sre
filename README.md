@@ -73,18 +73,6 @@ Sou um **Site Reliability Engineer (SRE) Senior** com mais de **25 anos de exper
   <img src="https://github-profile-trophy.vercel.app/?username=augustojoselg&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-## 🔥 Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustojoselg&theme=tokyonight" alt="mystreak"/>
-</div>
-
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=augustojoselg&theme=tokyonight" />
-</div>
-
 ## 🎯 Projetos em Destaque
 
 ### 🏦 [Desenrola Brasil - Plataforma Financeira]
